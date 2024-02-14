@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Akbal</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+<body>
+<!-- Global site tag (gtag.js) - Google Analytics GA4-->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z3N2G1V81L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Z3N2G1V81L');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics GU-->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-230506992-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-230506992-1');
+</script>
+
+<script>
+  window.addEventListener("scroll", function () {
+    let nav = document.querySelector("#nav");
+    if (window.pageYOffset >= 100) {
+      nav.classList.add("bg-menu", "shadow");
+    } else {
+      nav.classList.remove("bg-menu", "shadow");
+    }
+  });
+</script>
+  <app-root></app-root>
+</body>
+</html>

@@ -1,0 +1,101 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: 'NeutralFace';
+  src: url("assets/fonts/NeutralFace.otf");
+}
+.bg-menu{
+  background: #07090B;
+}
+@font-face {
+  font-family: 'Akkurat-Bold';
+  src: url("assets/fonts/Akkurat-Bold.ttf");
+}
+@font-face {
+  font-family: 'AkkuratPro-Regular';
+  src: url("assets/fonts/AkkuratPro-Regular.otf");
+}
+@font-face {
+  font-family: 'NeutralFace-Bold';
+  src: url("assets/fonts/NeutralFace-Bold.otf");
+}
+@font-face {
+  font-family: 'Open Sans Light';
+  src: url("assets/fonts/OpenSans-Light.ttf");
+}
+@font-face {
+  font-family: 'Open Sans Bold';
+  src: url("assets/fonts/OpenSans-Bold.ttf");
+}
+@font-face {
+  font-family: 'Open Sans Medium';
+  src: url("assets/fonts/OpenSans-Medium.ttf");
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url("assets/fonts/OpenSans-Regular.ttf");
+}
+*{
+  font-family: 'Open Sans Light', serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 21px;
+  color: #FFFFFF;
+}
+.font-section{
+  font-family: 'NeutralFace', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 50px;
+  color: #FFFFFF;
+}
+.font-menu{
+  font-family: 'AkkuratPro-Regular', serif;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: 14px !important;
+  line-height: 28px !important;
+  text-align: center !important;
+  color: #FFFFFF !important;
+}
+.font-title{
+  font-family: 'Neutral Face', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 25px;
+  color: #FFFFFF;
+}
+.font-table{
+  font-family: 'Akkurat-Bold', serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  /* identical to box height */
+  text-align: center;
+  color: #FFFFFF;
+}
+.font-dinamic{
+  font-family: 'Akkurat-Bold', serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  /* identical to box height */
+  color: #FFFFFF;
+}
+.font-td{
+  font-family: 'AkkuratPro-Regular', serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 100.6%;
+  /* or 18px */
+  text-align: center;
+  color: #FFFFFF;
+}
+body{
+  overflow-x: hidden;
+}

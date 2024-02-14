@@ -1,0 +1,7515 @@
+[
+  {
+    "Etapa": "E1",
+    "Lote": 1,
+    "TIPO": "PLUS",
+    "Metraje": 342.147,
+    "Inversion": "$1,550.00",
+    "Contado": "530,327.85",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 1
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 3,
+    "TIPO": "REGULAR",
+    "Metraje": 218.65,
+    "Inversion": "$1,450.00",
+    "Contado": "317,042.50",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 2
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 4,
+    "TIPO": "REGULAR",
+    "Metraje": 215.245,
+    "Inversion": "$1,450.00",
+    "Contado": "312,105.25",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 3
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 5,
+    "TIPO": "REGULAR",
+    "Metraje": 233.08,
+    "Inversion": "$1,450.00",
+    "Contado": "337,966.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 4
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 6,
+    "TIPO": "REGULAR",
+    "Metraje": 208.2,
+    "Inversion": "$1,450.00",
+    "Contado": "301,890.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 5
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 7,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 6
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 8,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 7
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 9,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 8
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 10,
+    "TIPO": "PLUS",
+    "Metraje": 189.368,
+    "Inversion": "$1,550.00",
+    "Contado": "293,520.40",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 9
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 11,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 10
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 12,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 11
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 13,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 12
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 14,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 13
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 15,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 14
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 16,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 15
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 17,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 16
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 18,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 17
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 19,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 18
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 20,
+    "TIPO": "PLUS",
+    "Metraje": 339.957,
+    "Inversion": "$1,550.00",
+    "Contado": "526,933.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 19
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 23,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 20
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 24,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 21
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 25,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 22
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 26,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 23
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 27,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 24
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 28,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 25
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 29,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 26
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 30,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 27
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 31,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 28
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 32,
+    "TIPO": "PLUS",
+    "Metraje": 231.258,
+    "Inversion": "$1,550.00",
+    "Contado": "358,449.90",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 29
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 33,
+    "TIPO": "PLUS",
+    "Metraje": 202.434,
+    "Inversion": "$1,550.00",
+    "Contado": "313,772.70",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 30
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 34,
+    "TIPO": "REGULAR",
+    "Metraje": 185.761,
+    "Inversion": "$1,450.00",
+    "Contado": "269,353.45",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 31
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 35,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 32
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 36,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 33
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 37,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 34
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 38,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 35
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 39,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 36
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 40,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 37
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 41,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 38
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 42,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 39
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 43,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 40
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 44,
+    "TIPO": "PLUS",
+    "Metraje": 332.415,
+    "Inversion": "$1,550.00",
+    "Contado": "515,243.25",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 41
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 45,
+    "TIPO": "PLUS",
+    "Metraje": 250.528,
+    "Inversion": "$1,550.00",
+    "Contado": "388,318.40",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 42
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 46,
+    "TIPO": "REGULAR",
+    "Metraje": 190.078,
+    "Inversion": "$1,450.00",
+    "Contado": "275,613.10",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 43
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 47,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 44
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 55,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 45
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 56,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 46
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 57,
+    "TIPO": "PLUS",
+    "Metraje": 162.841,
+    "Inversion": "$1,550.00",
+    "Contado": "252,403.55",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 47
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 58,
+    "TIPO": "PLUS",
+    "Metraje": 374.305,
+    "Inversion": "$1,550.00",
+    "Contado": "580,172.75",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 48
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 59,
+    "TIPO": "REGULAR",
+    "Metraje": 232.807,
+    "Inversion": "$1,450.00",
+    "Contado": "337,570.15",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 49
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 60,
+    "TIPO": "PREMIUM",
+    "Metraje": 246.773,
+    "Inversion": "$1,650.00",
+    "Contado": "407,175.45",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 50
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 61,
+    "TIPO": "PREMIUM",
+    "Metraje": 260.739,
+    "Inversion": "$1,650.00",
+    "Contado": "430,219.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 51
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 62,
+    "TIPO": "PREMIUM",
+    "Metraje": 274.704,
+    "Inversion": "$1,650.00",
+    "Contado": "453,261.60",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 52
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 63,
+    "TIPO": "REGULAR",
+    "Metraje": 288.67,
+    "Inversion": "$1,450.00",
+    "Contado": "418,571.50",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 53
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 64,
+    "TIPO": "REGULAR",
+    "Metraje": 302.636,
+    "Inversion": "$1,450.00",
+    "Contado": "438,822.20",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 54
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 65,
+    "TIPO": "PLUS",
+    "Metraje": 291.171,
+    "Inversion": "$1,550.00",
+    "Contado": "451,315.05",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 55
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 66,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 56
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 67,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 57
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 68,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 58
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 69,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 59
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 70,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 60
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 72,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 61
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 73,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 62
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 74,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 63
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 75,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 64
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 76,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 65
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 79,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 66
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 80,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 67
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 81,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 68
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 84,
+    "TIPO": "PLUS",
+    "Metraje": 170.949,
+    "Inversion": "$1,550.00",
+    "Contado": "264,970.95",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 69
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 86,
+    "TIPO": "PREMIUM",
+    "Metraje": 215.5,
+    "Inversion": "$1,650.00",
+    "Contado": "355,575.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 70
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 87,
+    "TIPO": "PREMIUM",
+    "Metraje": 270.144,
+    "Inversion": "$1,650.00",
+    "Contado": "445,737.60",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 71
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 89,
+    "TIPO": "PLUS",
+    "Metraje": 238.254,
+    "Inversion": "$1,550.00",
+    "Contado": "369,293.70",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 72
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 90,
+    "TIPO": "PLUS",
+    "Metraje": 239.11,
+    "Inversion": "$1,550.00",
+    "Contado": "370,620.50",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 73
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 91,
+    "TIPO": "REGULAR",
+    "Metraje": 186.399,
+    "Inversion": "$1,450.00",
+    "Contado": "270,278.55",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 74
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 92,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 75
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 93,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 76
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 94,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 77
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 95,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 78
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 96,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 79
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 97,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 80
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 98,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 81
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 99,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 82
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 100,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 83
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 101,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 84
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 102,
+    "TIPO": "PLUS",
+    "Metraje": 181.27,
+    "Inversion": "$1,550.00",
+    "Contado": "280,968.50",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 85
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 1,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 86
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 2,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 87
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 3,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 88
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 4,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 89
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 5,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 90
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 6,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 91
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 7,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 92
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 8,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 93
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 9,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 94
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 10,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 95
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 11,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 96
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 12,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 97
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 13,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 98
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 14,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 99
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 15,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 100
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 16,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 101
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 17,
+    "TIPO": "PREMIUM",
+    "Metraje": 286.387,
+    "Inversion": "$1,650.00",
+    "Contado": "472,538.55",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 102
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 18,
+    "TIPO": "PREMIUM",
+    "Metraje": 327.26,
+    "Inversion": "$1,650.00",
+    "Contado": "539,979.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 103
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 19,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 104
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 20,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 105
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 21,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 106
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 22,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 107
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 23,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 108
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 24,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 109
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 25,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 110
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 26,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 111
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 27,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 112
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 28,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 113
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 29,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 114
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 30,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 115
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 31,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 116
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 32,
+    "TIPO": "PREMIUM",
+    "Metraje": 176.808,
+    "Inversion": "$1,650.00",
+    "Contado": "291,733.20",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 117
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 33,
+    "TIPO": "PLUS",
+    "Metraje": 242.096,
+    "Inversion": "$1,550.00",
+    "Contado": "375,248.80",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 118
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 34,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 119
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 35,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 120
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 36,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 121
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 37,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 122
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 38,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 123
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 39,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 124
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 40,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 125
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 41,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 126
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 42,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 127
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 43,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 128
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 44,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 129
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 45,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 130
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 46,
+    "TIPO": "REGULAR",
+    "Metraje": 184.769,
+    "Inversion": "$1,450.00",
+    "Contado": "267,915.05",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 131
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 47,
+    "TIPO": "PLUS",
+    "Metraje": 173.133,
+    "Inversion": "$1,550.00",
+    "Contado": "268,356.15",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 132
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 48,
+    "TIPO": "PLUS",
+    "Metraje": 347.577,
+    "Inversion": "$1,550.00",
+    "Contado": "538,744.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 133
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 49,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 134
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 50,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 135
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 51,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 136
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 52,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 137
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 53,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 138
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 54,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 139
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 55,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 140
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 56,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 141
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 57,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 142
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 58,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 143
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 59,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 144
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 60,
+    "TIPO": "REGULAR",
+    "Metraje": 184.769,
+    "Inversion": "$1,450.00",
+    "Contado": "267,915.05",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 145
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 61,
+    "TIPO": "PLUS",
+    "Metraje": 180.848,
+    "Inversion": "$1,550.00",
+    "Contado": "280,314.40",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 146
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 62,
+    "TIPO": "PLUS",
+    "Metraje": 319.117,
+    "Inversion": "$1,550.00",
+    "Contado": "494,631.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 147
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 63,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 148
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 64,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 149
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 65,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 150
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 66,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 151
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 67,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 152
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 68,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 153
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 69,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 154
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 72,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 155
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 73,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 156
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 74,
+    "TIPO": "REGULAR",
+    "Metraje": 186.337,
+    "Inversion": "$1,450.00",
+    "Contado": "270,188.65",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 157
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 75,
+    "TIPO": "PLUS",
+    "Metraje": 183.38,
+    "Inversion": "$1,550.00",
+    "Contado": "284,239.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 158
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 76,
+    "TIPO": "PREMIUM",
+    "Metraje": 317.551,
+    "Inversion": "$1,650.00",
+    "Contado": "523,959.15",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 159
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 77,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 160
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 78,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 161
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 79,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 162
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 80,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 163
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 81,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 164
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 82,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 165
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 83,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 166
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 84,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 167
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 85,
+    "TIPO": "REGULAR",
+    "Metraje": 201.482,
+    "Inversion": "$1,450.00",
+    "Contado": "292,148.90",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 168
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 86,
+    "TIPO": "REGULAR",
+    "Metraje": 202.01,
+    "Inversion": "$1,450.00",
+    "Contado": "292,914.50",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 169
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 87,
+    "TIPO": "REGULAR",
+    "Metraje": 202.539,
+    "Inversion": "$1,450.00",
+    "Contado": "293,681.55",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 170
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 88,
+    "TIPO": "REGULAR",
+    "Metraje": 189.404,
+    "Inversion": "$1,450.00",
+    "Contado": "274,635.80",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 171
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 89,
+    "TIPO": "PLUS",
+    "Metraje": 154.717,
+    "Inversion": "$1,550.00",
+    "Contado": "239,811.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 172
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 90,
+    "TIPO": "PLUS",
+    "Metraje": 295.707,
+    "Inversion": "$1,550.00",
+    "Contado": "458,345.85",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 173
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 91,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 174
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 92,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 175
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 93,
+    "TIPO": "REGULAR",
+    "Metraje": 182.307,
+    "Inversion": "$1,450.00",
+    "Contado": "264,345.15",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 176
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 94,
+    "TIPO": "PLUS",
+    "Metraje": 265.892,
+    "Inversion": "$1,550.00",
+    "Contado": "412,132.60",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 177
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 95,
+    "TIPO": "PLUS",
+    "Metraje": 295.707,
+    "Inversion": "$1,550.00",
+    "Contado": "458,345.85",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 178
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 96,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 179
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 97,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 180
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 98,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 181
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 99,
+    "TIPO": "PLUS",
+    "Metraje": 297.572,
+    "Inversion": "$1,550.00",
+    "Contado": "461,236.60",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 182
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 1,
+    "TIPO": "PLUS",
+    "Metraje": 275.175,
+    "Inversion": "$1,550.00",
+    "Contado": "426,521.25",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 183
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 2,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 184
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 3,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 185
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 4,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 186
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 5,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 187
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 6,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 188
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 7,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 189
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 10,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 190
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 11,
+    "TIPO": "PLUS",
+    "Metraje": 360.98,
+    "Inversion": "$1,550.00",
+    "Contado": "559,519.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 191
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 12,
+    "TIPO": "PLUS",
+    "Metraje": 233.457,
+    "Inversion": "$1,550.00",
+    "Contado": "361,858.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 192
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 13,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 193
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 14,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 194
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 15,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 195
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 16,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 196
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 17,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 197
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 18,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 198
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 19,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 199
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 20,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 200
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 21,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 201
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 22,
+    "TIPO": "PLUS",
+    "Metraje": 270.319,
+    "Inversion": "$1,550.00",
+    "Contado": "418,994.45",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 202
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 23,
+    "TIPO": "PLUS",
+    "Metraje": 191.556,
+    "Inversion": "$1,550.00",
+    "Contado": "296,911.80",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 203
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 24,
+    "TIPO": "REGULAR",
+    "Metraje": 182.257,
+    "Inversion": "$1,450.00",
+    "Contado": "264,272.65",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 204
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 25,
+    "TIPO": "REGULAR",
+    "Metraje": 193.662,
+    "Inversion": "$1,450.00",
+    "Contado": "280,809.90",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 205
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 26,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 206
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 27,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 207
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 28,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 208
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 29,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 209
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 30,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 210
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 31,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 211
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 32,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 212
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 33,
+    "TIPO": "PLUS",
+    "Metraje": 235.686,
+    "Inversion": "$1,550.00",
+    "Contado": "365,313.30",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 213
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 34,
+    "TIPO": "PLUS",
+    "Metraje": 235.534,
+    "Inversion": "$1,550.00",
+    "Contado": "365,077.70",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 214
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 35,
+    "TIPO": "REGULAR",
+    "Metraje": 193.662,
+    "Inversion": "$1,450.00",
+    "Contado": "280,809.90",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 215
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 36,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 216
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 37,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 217
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 39,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 218
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 40,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 219
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 41,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 220
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 42,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 221
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 43,
+    "TIPO": "PLUS",
+    "Metraje": 173.098,
+    "Inversion": "$1,550.00",
+    "Contado": "268,301.90",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 222
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 44,
+    "TIPO": "PLUS",
+    "Metraje": 401.044,
+    "Inversion": "$1,550.00",
+    "Contado": "621,618.20",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 223
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 45,
+    "TIPO": "REGULAR",
+    "Metraje": 225.224,
+    "Inversion": "$1,450.00",
+    "Contado": "326,574.80",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 224
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 46,
+    "TIPO": "REGULAR",
+    "Metraje": 227.743,
+    "Inversion": "$1,450.00",
+    "Contado": "330,227.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 225
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 47,
+    "TIPO": "REGULAR",
+    "Metraje": 227.743,
+    "Inversion": "$1,450.00",
+    "Contado": "330,227.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 226
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 48,
+    "TIPO": "REGULAR",
+    "Metraje": 227.743,
+    "Inversion": "$1,450.00",
+    "Contado": "330,227.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 227
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 49,
+    "TIPO": "REGULAR",
+    "Metraje": 227.743,
+    "Inversion": "$1,450.00",
+    "Contado": "330,227.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 228
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 50,
+    "TIPO": "REGULAR",
+    "Metraje": 227.743,
+    "Inversion": "$1,450.00",
+    "Contado": "330,227.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 229
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 51,
+    "TIPO": "REGULAR",
+    "Metraje": 227.743,
+    "Inversion": "$1,450.00",
+    "Contado": "330,227.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 230
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 52,
+    "TIPO": "PLUS",
+    "Metraje": 185.947,
+    "Inversion": "$1,550.00",
+    "Contado": "288,217.85",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 231
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 53,
+    "TIPO": "PLUS",
+    "Metraje": 238.743,
+    "Inversion": "$1,550.00",
+    "Contado": "370,051.65",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 232
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 54,
+    "TIPO": "REGULAR",
+    "Metraje": 150.714,
+    "Inversion": "$1,450.00",
+    "Contado": "218,535.30",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 233
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 55,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 234
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 56,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 235
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 57,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 236
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 58,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 237
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 59,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 238
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 60,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 239
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 61,
+    "TIPO": "PLUS",
+    "Metraje": 230.442,
+    "Inversion": "$1,550.00",
+    "Contado": "357,185.10",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 240
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 62,
+    "TIPO": "PLUS",
+    "Metraje": 330.161,
+    "Inversion": "$1,550.00",
+    "Contado": "511,749.55",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 241
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 63,
+    "TIPO": "REGULAR",
+    "Metraje": 181.258,
+    "Inversion": "$1,450.00",
+    "Contado": "262,824.10",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 242
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 64,
+    "TIPO": "REGULAR",
+    "Metraje": 194.951,
+    "Inversion": "$1,450.00",
+    "Contado": "282,678.95",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 243
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 65,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 244
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 66,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 245
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 67,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 246
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 68,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 247
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 69,
+    "TIPO": "PLUS",
+    "Metraje": 343.116,
+    "Inversion": "$1,550.00",
+    "Contado": "531,829.80",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 248
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 70,
+    "TIPO": "PLUS",
+    "Metraje": 150.267,
+    "Inversion": "$1,550.00",
+    "Contado": "232,913.85",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 249
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 71,
+    "TIPO": "REGULAR",
+    "Metraje": 194.951,
+    "Inversion": "$1,450.00",
+    "Contado": "282,678.95",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 250
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 72,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 251
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 73,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 252
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 74,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 253
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 75,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 254
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 76,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 255
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 77,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 256
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 78,
+    "TIPO": "PREMIUM",
+    "Metraje": 277.271,
+    "Inversion": "$1,650.00",
+    "Contado": "457,497.15",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 257
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 79,
+    "TIPO": "PLUS",
+    "Metraje": 381.559,
+    "Inversion": "$1,550.00",
+    "Contado": "591,416.45",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 258
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 80,
+    "TIPO": "REGULAR",
+    "Metraje": 182.449,
+    "Inversion": "$1,450.00",
+    "Contado": "264,551.05",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 259
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 81,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 260
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 82,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 261
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 83,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 262
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 84,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 263
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 85,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 264
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 86,
+    "TIPO": "REGULAR",
+    "Metraje": 216.781,
+    "Inversion": "$1,450.00",
+    "Contado": "314,332.45",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 265
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 87,
+    "TIPO": "PREMIUM",
+    "Metraje": 174.934,
+    "Inversion": "$1,650.00",
+    "Contado": "288,641.10",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 266
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 88,
+    "TIPO": "PLUS",
+    "Metraje": 190.584,
+    "Inversion": "$1,550.00",
+    "Contado": "295,405.20",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 267
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 89,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 268
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 90,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 269
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 91,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 270
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 92,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 271
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 93,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 272
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 94,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 273
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 95,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 274
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 96,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 275
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 97,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 276
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 98,
+    "TIPO": "PREMIUM",
+    "Metraje": 287.451,
+    "Inversion": "$1,650.00",
+    "Contado": "474,294.15",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 277
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 99,
+    "TIPO": "PLUS",
+    "Metraje": 427.938,
+    "Inversion": "$1,550.00",
+    "Contado": "663,303.90",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 278
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 100,
+    "TIPO": "REGULAR",
+    "Metraje": 186.385,
+    "Inversion": "$1,450.00",
+    "Contado": "270,258.25",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 279
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 101,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 280
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 102,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 281
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 103,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 282
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 104,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 283
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 105,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 284
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 106,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 285
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 107,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 286
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 108,
+    "TIPO": "PREMIUM",
+    "Metraje": 244.556,
+    "Inversion": "$1,650.00",
+    "Contado": "403,517.40",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 287
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 109,
+    "TIPO": "PLUS",
+    "Metraje": 203.094,
+    "Inversion": "$1,550.00",
+    "Contado": "314,795.70",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 288
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 110,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 289
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 111,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 290
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 112,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 291
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 113,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 292
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 114,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 293
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 115,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 294
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 116,
+    "TIPO": "PLUS",
+    "Metraje": 476.89,
+    "Inversion": "$1,550.00",
+    "Contado": "739,179.50",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 295
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 117,
+    "TIPO": "REGULAR",
+    "Metraje": 182.831,
+    "Inversion": "$1,450.00",
+    "Contado": "265,104.95",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 296
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 118,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 297
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 119,
+    "TIPO": "PREMIUM",
+    "Metraje": 388.518,
+    "Inversion": "$1,650.00",
+    "Contado": "641,054.70",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 298
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 120,
+    "TIPO": "PLUS",
+    "Metraje": 280.053,
+    "Inversion": "$1,550.00",
+    "Contado": "434,082.15",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 299
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 121,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 300
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 122,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 301
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 123,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 302
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 124,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 303
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 125,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 304
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 126,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 305
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 127,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 306
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 128,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 307
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 129,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 308
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 130,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 309
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 131,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 310
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 132,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 311
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 133,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 312
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 1,
+    "TIPO": "PLUS",
+    "Metraje": 177.422,
+    "Inversion": "$1,550.00",
+    "Contado": "275,004.10",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 313
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 2,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 314
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 3,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 315
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 4,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 316
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 5,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 317
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 6,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 318
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 7,
+    "TIPO": "PLUS",
+    "Metraje": 227.94,
+    "Inversion": "$1,550.00",
+    "Contado": "353,307.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 319
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 8,
+    "TIPO": "PLUS",
+    "Metraje": 280.206,
+    "Inversion": "$1,550.00",
+    "Contado": "434,319.30",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 320
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 9,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 321
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 10,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 322
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 11,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 323
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 12,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 324
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 13,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 325
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 14,
+    "TIPO": "REGULAR",
+    "Metraje": 183.726,
+    "Inversion": "$1,450.00",
+    "Contado": "266,402.70",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 326
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 15,
+    "TIPO": "PLUS",
+    "Metraje": 266.997,
+    "Inversion": "$1,550.00",
+    "Contado": "413,845.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 327
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 16,
+    "TIPO": "PLUS",
+    "Metraje": 241.791,
+    "Inversion": "$1,550.00",
+    "Contado": "374,776.05",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 328
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 17,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 329
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 18,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 330
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 19,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 331
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 20,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 332
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 21,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 333
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 22,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 334
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 23,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 335
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 24,
+    "TIPO": "PLUS",
+    "Metraje": 329.597,
+    "Inversion": "$1,550.00",
+    "Contado": "510,875.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 336
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 25,
+    "TIPO": "PLUS",
+    "Metraje": 308.656,
+    "Inversion": "$1,550.00",
+    "Contado": "478,416.80",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 337
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 26,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 338
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 27,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 339
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 28,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 340
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 29,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 341
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 30,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 342
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 31,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 343
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 32,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 344
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 33,
+    "TIPO": "REGULAR",
+    "Metraje": 194.183,
+    "Inversion": "$1,450.00",
+    "Contado": "281,565.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 345
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 34,
+    "TIPO": "PLUS",
+    "Metraje": 372.933,
+    "Inversion": "$1,550.00",
+    "Contado": "578,046.15",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 346
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 35,
+    "TIPO": "PLUS",
+    "Metraje": 363.388,
+    "Inversion": "$1,550.00",
+    "Contado": "563,251.40",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 347
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 36,
+    "TIPO": "REGULAR",
+    "Metraje": 227.743,
+    "Inversion": "$1,450.00",
+    "Contado": "330,227.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 348
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 37,
+    "TIPO": "REGULAR",
+    "Metraje": 227.743,
+    "Inversion": "$1,450.00",
+    "Contado": "330,227.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 349
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 38,
+    "TIPO": "REGULAR",
+    "Metraje": 227.743,
+    "Inversion": "$1,450.00",
+    "Contado": "330,227.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 350
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 39,
+    "TIPO": "REGULAR",
+    "Metraje": 227.743,
+    "Inversion": "$1,450.00",
+    "Contado": "330,227.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 351
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 40,
+    "TIPO": "REGULAR",
+    "Metraje": 227.743,
+    "Inversion": "$1,450.00",
+    "Contado": "330,227.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 352
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 41,
+    "TIPO": "REGULAR",
+    "Metraje": 227.743,
+    "Inversion": "$1,450.00",
+    "Contado": "330,227.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 353
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 42,
+    "TIPO": "REGULAR",
+    "Metraje": 227.743,
+    "Inversion": "$1,450.00",
+    "Contado": "330,227.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 354
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 43,
+    "TIPO": "REGULAR",
+    "Metraje": 227.743,
+    "Inversion": "$1,450.00",
+    "Contado": "330,227.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 355
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 44,
+    "TIPO": "REGULAR",
+    "Metraje": 227.743,
+    "Inversion": "$1,450.00",
+    "Contado": "330,227.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 356
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 45,
+    "TIPO": "PLUS",
+    "Metraje": 326.271,
+    "Inversion": "$1,550.00",
+    "Contado": "505,720.05",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 357
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 46,
+    "TIPO": "PLUS",
+    "Metraje": 238.437,
+    "Inversion": "$1,550.00",
+    "Contado": "369,577.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 358
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 47,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 359
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 48,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 360
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 49,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 361
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 50,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 362
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 51,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 363
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 52,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 364
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 53,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 365
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 54,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 366
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 55,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 367
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 56,
+    "TIPO": "REGULAR",
+    "Metraje": 188.872,
+    "Inversion": "$1,450.00",
+    "Contado": "273,864.40",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 368
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 57,
+    "TIPO": "PLUS",
+    "Metraje": 322.78,
+    "Inversion": "$1,550.00",
+    "Contado": "500,309.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 369
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 58,
+    "TIPO": "PREMIUM",
+    "Metraje": 301.569,
+    "Inversion": "$1,650.00",
+    "Contado": "497,588.85",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 370
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 59,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 371
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 60,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 372
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 61,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 373
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 62,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 374
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 63,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 375
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 64,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 376
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 65,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 377
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 66,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 378
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 67,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 379
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 68,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 380
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 69,
+    "TIPO": "PLUS",
+    "Metraje": 247.688,
+    "Inversion": "$1,550.00",
+    "Contado": "383,916.40",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 381
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 70,
+    "TIPO": "PREMIUM",
+    "Metraje": 171.248,
+    "Inversion": "$1,650.00",
+    "Contado": "282,559.20",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 382
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 71,
+    "TIPO": "PREMIUM",
+    "Metraje": 198.573,
+    "Inversion": "$1,650.00",
+    "Contado": "327,645.45",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 383
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 72,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 384
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 73,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 385
+  },
+  {
+    "Etapa": "E4",
+    "Lote": 74,
+    "TIPO": "PLUS",
+    "Metraje": 336.971,
+    "Inversion": "$1,550.00",
+    "Contado": "522,305.05",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 386
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 1,
+    "TIPO": "PLUS",
+    "Metraje": 297.393,
+    "Inversion": "$1,550.00",
+    "Contado": "460,959.15",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 387
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 2,
+    "TIPO": "REGULAR",
+    "Metraje": 189.682,
+    "Inversion": "$1,450.00",
+    "Contado": "275,038.90",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 388
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 3,
+    "TIPO": "REGULAR",
+    "Metraje": 193.118,
+    "Inversion": "$1,450.00",
+    "Contado": "280,021.10",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 389
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 4,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 390
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 5,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 391
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 6,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 392
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 7,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 393
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 8,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 394
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 9,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 395
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 10,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 396
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 11,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 397
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 12,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 398
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 15,
+    "TIPO": "PLUS",
+    "Metraje": 306.809,
+    "Inversion": "$1,550.00",
+    "Contado": "475,553.95",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 399
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 16,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 400
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 17,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 401
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 18,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 402
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 19,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 403
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 20,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 404
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 21,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 405
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 22,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 406
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 23,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 407
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 24,
+    "TIPO": "PLUS",
+    "Metraje": 368.248,
+    "Inversion": "$1,550.00",
+    "Contado": "570,784.40",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 408
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 25,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 409
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 26,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 410
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 27,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 411
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 28,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 412
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 29,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 413
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 30,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 414
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 31,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 415
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 32,
+    "TIPO": "PREMIUM",
+    "Metraje": 336.158,
+    "Inversion": "$1,650.00",
+    "Contado": "554,660.70",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 416
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 33,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 417
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 34,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 418
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 35,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 419
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 36,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 420
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 37,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 421
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 38,
+    "TIPO": "PREMIUM",
+    "Metraje": 224.731,
+    "Inversion": "$1,650.00",
+    "Contado": "370,806.15",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 422
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 39,
+    "TIPO": "PREMIUM",
+    "Metraje": 217.307,
+    "Inversion": "$1,650.00",
+    "Contado": "358,556.55",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 423
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 40,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 424
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 41,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 425
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 42,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 426
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 43,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 427
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 44,
+    "TIPO": "PREMIUM",
+    "Metraje": 345.944,
+    "Inversion": "$1,650.00",
+    "Contado": "570,807.60",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 428
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 45,
+    "TIPO": "PLUS",
+    "Metraje": 278.746,
+    "Inversion": "$1,550.00",
+    "Contado": "432,056.30",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 429
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 46,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 430
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 47,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 431
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 48,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 432
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 49,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 433
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 50,
+    "TIPO": "PREMIUM",
+    "Metraje": 334.522,
+    "Inversion": "$1,650.00",
+    "Contado": "551,961.30",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 434
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 51,
+    "TIPO": "PREMIUM",
+    "Metraje": 279.754,
+    "Inversion": "$1,650.00",
+    "Contado": "461,594.10",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 435
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 52,
+    "TIPO": "PREMIUM",
+    "Metraje": 240.781,
+    "Inversion": "$1,650.00",
+    "Contado": "397,288.65",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 436
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 53,
+    "TIPO": "PREMIUM",
+    "Metraje": 205.54,
+    "Inversion": "$1,650.00",
+    "Contado": "339,141.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 437
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 54,
+    "TIPO": "PREMIUM",
+    "Metraje": 421.805,
+    "Inversion": "$1,650.00",
+    "Contado": "695,978.25",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 438
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 55,
+    "TIPO": "REGULAR",
+    "Metraje": 215.538,
+    "Inversion": "$1,450.00",
+    "Contado": "312,530.10",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 439
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 56,
+    "TIPO": "REGULAR",
+    "Metraje": 211.996,
+    "Inversion": "$1,450.00",
+    "Contado": "307,394.20",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 440
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 57,
+    "TIPO": "REGULAR",
+    "Metraje": 208.454,
+    "Inversion": "$1,450.00",
+    "Contado": "302,258.30",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 441
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 58,
+    "TIPO": "REGULAR",
+    "Metraje": 204.912,
+    "Inversion": "$1,450.00",
+    "Contado": "297,122.40",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 442
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 59,
+    "TIPO": "PLUS",
+    "Metraje": 239.67,
+    "Inversion": "$1,550.00",
+    "Contado": "371,488.50",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 443
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 60,
+    "TIPO": "PLUS",
+    "Metraje": 192.223,
+    "Inversion": "$1,550.00",
+    "Contado": "297,945.65",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 444
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 61,
+    "TIPO": "REGULAR",
+    "Metraje": 219.708,
+    "Inversion": "$1,450.00",
+    "Contado": "318,576.60",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 445
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 62,
+    "TIPO": "REGULAR",
+    "Metraje": 224.438,
+    "Inversion": "$1,450.00",
+    "Contado": "325,435.10",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 446
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 63,
+    "TIPO": "REGULAR",
+    "Metraje": 235.434,
+    "Inversion": "$1,450.00",
+    "Contado": "341,379.30",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 447
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 64,
+    "TIPO": "REGULAR",
+    "Metraje": 242.475,
+    "Inversion": "$1,450.00",
+    "Contado": "351,588.75",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 448
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 65,
+    "TIPO": "REGULAR",
+    "Metraje": 240.814,
+    "Inversion": "$1,450.00",
+    "Contado": "349,180.30",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 449
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 66,
+    "TIPO": "REGULAR",
+    "Metraje": 238.696,
+    "Inversion": "$1,450.00",
+    "Contado": "346,109.20",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 450
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 67,
+    "TIPO": "REGULAR",
+    "Metraje": 236.557,
+    "Inversion": "$1,450.00",
+    "Contado": "343,007.65",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 451
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 68,
+    "TIPO": "PREMIUM",
+    "Metraje": 234.459,
+    "Inversion": "$1,650.00",
+    "Contado": "386,857.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 452
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 69,
+    "TIPO": "PREMIUM",
+    "Metraje": 232.34,
+    "Inversion": "$1,650.00",
+    "Contado": "383,361.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 453
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 70,
+    "TIPO": "PREMIUM",
+    "Metraje": 230.222,
+    "Inversion": "$1,650.00",
+    "Contado": "379,866.30",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 454
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 71,
+    "TIPO": "PREMIUM",
+    "Metraje": 228.103,
+    "Inversion": "$1,650.00",
+    "Contado": "376,369.95",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 455
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 72,
+    "TIPO": "PREMIUM",
+    "Metraje": 225.985,
+    "Inversion": "$1,650.00",
+    "Contado": "372,875.25",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 456
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 73,
+    "TIPO": "PREMIUM",
+    "Metraje": 223.866,
+    "Inversion": "$1,650.00",
+    "Contado": "369,378.90",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 457
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 74,
+    "TIPO": "PREMIUM",
+    "Metraje": 221.748,
+    "Inversion": "$1,650.00",
+    "Contado": "365,884.20",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 458
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 75,
+    "TIPO": "PREMIUM",
+    "Metraje": 219.629,
+    "Inversion": "$1,650.00",
+    "Contado": "362,387.85",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 459
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 76,
+    "TIPO": "REGULAR",
+    "Metraje": 217.511,
+    "Inversion": "$1,450.00",
+    "Contado": "315,390.95",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 460
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 77,
+    "TIPO": "REGULAR",
+    "Metraje": 215.392,
+    "Inversion": "$1,450.00",
+    "Contado": "312,318.40",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 461
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 78,
+    "TIPO": "REGULAR",
+    "Metraje": 213.274,
+    "Inversion": "$1,450.00",
+    "Contado": "309,247.30",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 462
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 79,
+    "TIPO": "REGULAR",
+    "Metraje": 211.155,
+    "Inversion": "$1,450.00",
+    "Contado": "306,174.75",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 463
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 80,
+    "TIPO": "REGULAR",
+    "Metraje": 209.037,
+    "Inversion": "$1,450.00",
+    "Contado": "303,103.65",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 464
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 81,
+    "TIPO": "REGULAR",
+    "Metraje": 206.918,
+    "Inversion": "$1,450.00",
+    "Contado": "300,031.10",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 465
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 82,
+    "TIPO": "REGULAR",
+    "Metraje": 204.8,
+    "Inversion": "$1,450.00",
+    "Contado": "296,960.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 466
+  },
+  {
+    "Etapa": "E5",
+    "Lote": 83,
+    "TIPO": "PLUS",
+    "Metraje": 245.538,
+    "Inversion": "$1,550.00",
+    "Contado": "380,583.90",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 467
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 1,
+    "TIPO": "PREMIUM",
+    "Metraje": 181.743,
+    "Inversion": "$1,650.00",
+    "Contado": "299,875.95",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 468
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 2,
+    "TIPO": "PREMIUM",
+    "Metraje": 199.542,
+    "Inversion": "$1,650.00",
+    "Contado": "329,244.30",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 469
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 3,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 470
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 4,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 471
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 5,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 472
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 6,
+    "TIPO": "REGULAR",
+    "Metraje": 199.311,
+    "Inversion": "$1,450.00",
+    "Contado": "289,000.95",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 473
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 7,
+    "TIPO": "REGULAR",
+    "Metraje": 198.441,
+    "Inversion": "$1,450.00",
+    "Contado": "287,739.45",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 474
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 8,
+    "TIPO": "REGULAR",
+    "Metraje": 190.328,
+    "Inversion": "$1,450.00",
+    "Contado": "275,975.60",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 475
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 9,
+    "TIPO": "REGULAR",
+    "Metraje": 198.82,
+    "Inversion": "$1,450.00",
+    "Contado": "288,289.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 476
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 10,
+    "TIPO": "REGULAR",
+    "Metraje": 207.311,
+    "Inversion": "$1,450.00",
+    "Contado": "300,600.95",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 477
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 11,
+    "TIPO": "REGULAR",
+    "Metraje": 215.803,
+    "Inversion": "$1,450.00",
+    "Contado": "312,914.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 478
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 12,
+    "TIPO": "REGULAR",
+    "Metraje": 223.659,
+    "Inversion": "$1,450.00",
+    "Contado": "324,305.55",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 479
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 13,
+    "TIPO": "REGULAR",
+    "Metraje": 229.458,
+    "Inversion": "$1,450.00",
+    "Contado": "332,714.10",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 480
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 14,
+    "TIPO": "REGULAR",
+    "Metraje": 233.538,
+    "Inversion": "$1,450.00",
+    "Contado": "338,630.10",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 481
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 15,
+    "TIPO": "REGULAR",
+    "Metraje": 231.161,
+    "Inversion": "$1,450.00",
+    "Contado": "335,183.45",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 482
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 16,
+    "TIPO": "REGULAR",
+    "Metraje": 227.889,
+    "Inversion": "$1,450.00",
+    "Contado": "330,439.05",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 483
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 17,
+    "TIPO": "REGULAR",
+    "Metraje": 224.617,
+    "Inversion": "$1,450.00",
+    "Contado": "325,694.65",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 484
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 18,
+    "TIPO": "REGULAR",
+    "Metraje": 221.345,
+    "Inversion": "$1,450.00",
+    "Contado": "320,950.25",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 485
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 19,
+    "TIPO": "REGULAR",
+    "Metraje": 293.625,
+    "Inversion": "$1,450.00",
+    "Contado": "425,756.25",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 486
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 20,
+    "TIPO": "REGULAR",
+    "Metraje": 213.656,
+    "Inversion": "$1,450.00",
+    "Contado": "309,801.20",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 487
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 21,
+    "TIPO": "REGULAR",
+    "Metraje": 210.384,
+    "Inversion": "$1,450.00",
+    "Contado": "305,056.80",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 488
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 22,
+    "TIPO": "REGULAR",
+    "Metraje": 207.112,
+    "Inversion": "$1,450.00",
+    "Contado": "300,312.40",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 489
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 23,
+    "TIPO": "REGULAR",
+    "Metraje": 203.84,
+    "Inversion": "$1,450.00",
+    "Contado": "295,568.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 490
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 24,
+    "TIPO": "REGULAR",
+    "Metraje": 200.568,
+    "Inversion": "$1,450.00",
+    "Contado": "290,823.60",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 491
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 25,
+    "TIPO": "REGULAR",
+    "Metraje": 197.296,
+    "Inversion": "$1,450.00",
+    "Contado": "286,079.20",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 492
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 26,
+    "TIPO": "REGULAR",
+    "Metraje": 194.024,
+    "Inversion": "$1,450.00",
+    "Contado": "281,334.80",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 493
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 27,
+    "TIPO": "REGULAR",
+    "Metraje": 189.833,
+    "Inversion": "$1,450.00",
+    "Contado": "275,257.85",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 494
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 28,
+    "TIPO": "REGULAR",
+    "Metraje": 347.562,
+    "Inversion": "$1,450.00",
+    "Contado": "503,964.90",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 495
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 29,
+    "TIPO": "PLUS",
+    "Metraje": 286.914,
+    "Inversion": "$1,550.00",
+    "Contado": "444,716.70",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 496
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 30,
+    "TIPO": "PLUS",
+    "Metraje": 471.805,
+    "Inversion": "$1,550.00",
+    "Contado": "731,297.75",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 497
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 31,
+    "TIPO": "REGULAR",
+    "Metraje": 194.979,
+    "Inversion": "$1,450.00",
+    "Contado": "282,719.55",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 498
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 32,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 499
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 33,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 500
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 34,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 501
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 35,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 502
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 36,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 503
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 37,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 504
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 38,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 505
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 39,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 506
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 40,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 507
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 41,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 508
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 42,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 509
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 43,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 510
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 44,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 511
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 45,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 512
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 46,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 513
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 47,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 514
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 48,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 515
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 49,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 516
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 50,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 517
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 51,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 518
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 52,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 519
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 53,
+    "TIPO": "PREMIUM",
+    "Metraje": 444.055,
+    "Inversion": "$1,650.00",
+    "Contado": "732,690.75",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 520
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 54,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 521
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 55,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 522
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 56,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 523
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 57,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 524
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 58,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 525
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 59,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 526
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 60,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 527
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 61,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 528
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 62,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 529
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 63,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 530
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 64,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 531
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 65,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 532
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 66,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 533
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 67,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 534
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 68,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 535
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 69,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 536
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 70,
+    "TIPO": "PLUS",
+    "Metraje": 263.713,
+    "Inversion": "$1,550.00",
+    "Contado": "408,755.15",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 537
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 71,
+    "TIPO": "PLUS",
+    "Metraje": 463.367,
+    "Inversion": "$1,550.00",
+    "Contado": "718,218.85",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 538
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 72,
+    "TIPO": "REGULAR",
+    "Metraje": 190.152,
+    "Inversion": "$1,450.00",
+    "Contado": "275,720.40",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 539
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 73,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 540
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 74,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 541
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 75,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 542
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 76,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 543
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 77,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 544
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 78,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 545
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 79,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 546
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 80,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 547
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 81,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 548
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 82,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 549
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 83,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 550
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 84,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 551
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 85,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 552
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 86,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 553
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 87,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 554
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 88,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 555
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 89,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 556
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 90,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 557
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 91,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 558
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 92,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 559
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 93,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 560
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 94,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 561
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 95,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 562
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 96,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 563
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 97,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 564
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 98,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 565
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 99,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 566
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 100,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 567
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 101,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 568
+  },
+  {
+    "Etapa": "E6",
+    "Lote": 102,
+    "TIPO": "PLUS",
+    "Metraje": 296.516,
+    "Inversion": "$1,550.00",
+    "Contado": "459,599.80",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 569
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 3,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 570
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 4,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 571
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 5,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 572
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 6,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 573
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 7,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 574
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 8,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 575
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 9,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 576
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 10,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 577
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 11,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 578
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 12,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 579
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 13,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 580
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 14,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 581
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 15,
+    "TIPO": "REGULAR",
+    "Metraje": 194.527,
+    "Inversion": "$1,450.00",
+    "Contado": "282,064.15",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 582
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 16,
+    "TIPO": "REGULAR",
+    "Metraje": 177.213,
+    "Inversion": "$1,450.00",
+    "Contado": "256,958.85",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 583
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 17,
+    "TIPO": "PLUS",
+    "Metraje": 318.712,
+    "Inversion": "$1,550.00",
+    "Contado": "494,003.60",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 584
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 18,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 585
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 19,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 586
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 20,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 587
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 21,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 588
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 22,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 589
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 23,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 590
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 24,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 591
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 25,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 592
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 26,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 593
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 27,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 594
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 28,
+    "TIPO": "PLUS",
+    "Metraje": 350.582,
+    "Inversion": "$1,550.00",
+    "Contado": "543,402.10",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 595
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 29,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 596
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 30,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 597
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 31,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 598
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 32,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 599
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 33,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 600
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 34,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 601
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 35,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 602
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 36,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 603
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 37,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 604
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 38,
+    "TIPO": "PLUS",
+    "Metraje": 373.298,
+    "Inversion": "$1,550.00",
+    "Contado": "578,611.90",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 605
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 39,
+    "TIPO": "PLUS",
+    "Metraje": 172.916,
+    "Inversion": "$1,550.00",
+    "Contado": "268,019.80",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 606
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 40,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 607
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 41,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 608
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 42,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 609
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 43,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 610
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 44,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 611
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 45,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 612
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 46,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 613
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 47,
+    "TIPO": "PLUS",
+    "Metraje": 278.234,
+    "Inversion": "$1,550.00",
+    "Contado": "431,262.70",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 614
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 48,
+    "TIPO": "PREMIUM",
+    "Metraje": 322.531,
+    "Inversion": "$1,650.00",
+    "Contado": "532,176.15",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 615
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 49,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 616
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 50,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 617
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 51,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 618
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 52,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 619
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 53,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 620
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 54,
+    "TIPO": "PLUS",
+    "Metraje": 348.643,
+    "Inversion": "$1,550.00",
+    "Contado": "540,396.65",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 621
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 55,
+    "TIPO": "PREMIUM",
+    "Metraje": 178.181,
+    "Inversion": "$1,650.00",
+    "Contado": "293,998.65",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 622
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 56,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 623
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 57,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 624
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 58,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 625
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 59,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 626
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 60,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 627
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 61,
+    "TIPO": "PREMIUM",
+    "Metraje": 164.394,
+    "Inversion": "$1,650.00",
+    "Contado": "271,250.10",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 628
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 62,
+    "TIPO": "PLUS",
+    "Metraje": 250.645,
+    "Inversion": "$1,550.00",
+    "Contado": "388,499.75",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 629
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 63,
+    "TIPO": "PREMIUM",
+    "Metraje": 196.833,
+    "Inversion": "$1,650.00",
+    "Contado": "324,774.45",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 630
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 64,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 631
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 65,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 632
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 66,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 633
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 67,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 634
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 68,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 635
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 69,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 636
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 70,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 637
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 71,
+    "TIPO": "PREMIUM",
+    "Metraje": 200,
+    "Inversion": "$1,650.00",
+    "Contado": "330,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 638
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 72,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 639
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 73,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 640
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 74,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 641
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 75,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 642
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 76,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 643
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 77,
+    "TIPO": "REGULAR",
+    "Metraje": 230.772,
+    "Inversion": "$1,450.00",
+    "Contado": "334,619.40",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 644
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 78,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 645
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 79,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 646
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 80,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 647
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 81,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 648
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 82,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 649
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 83,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 650
+  },
+  {
+    "Etapa": "E7",
+    "Lote": 84,
+    "TIPO": "PLUS",
+    "Metraje": 361.601,
+    "Inversion": "$1,550.00",
+    "Contado": "560,481.55",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 651
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 1,
+    "TIPO": "PLUS",
+    "Metraje": 275.879,
+    "Inversion": "$1,550.00",
+    "Contado": "427,612.45",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 652
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 2,
+    "TIPO": "REGULAR",
+    "Metraje": 175.15,
+    "Inversion": "$1,450.00",
+    "Contado": "253,967.50",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 653
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 3,
+    "TIPO": "PLUS",
+    "Metraje": 199.052,
+    "Inversion": "$1,550.00",
+    "Contado": "308,530.60",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 654
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 4,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 655
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 5,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 656
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 6,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 657
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 7,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 658
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 8,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 659
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 9,
+    "TIPO": "PLUS",
+    "Metraje": 212.322,
+    "Inversion": "$1,550.00",
+    "Contado": "329,099.10",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 660
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 10,
+    "TIPO": "PLUS",
+    "Metraje": 268.538,
+    "Inversion": "$1,550.00",
+    "Contado": "416,233.90",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 661
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 11,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 662
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 12,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 663
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 13,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 664
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 14,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 665
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 15,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 666
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 16,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 667
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 17,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 668
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 18,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 669
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 19,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 670
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 20,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 671
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 21,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 672
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 22,
+    "TIPO": "PLUS",
+    "Metraje": 235.844,
+    "Inversion": "$1,550.00",
+    "Contado": "365,558.20",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 673
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 23,
+    "TIPO": "PLUS",
+    "Metraje": 514.928,
+    "Inversion": "$1,550.00",
+    "Contado": "798,138.40",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 674
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 24,
+    "TIPO": "REGULAR",
+    "Metraje": 253.035,
+    "Inversion": "$1,450.00",
+    "Contado": "366,900.75",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 675
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 25,
+    "TIPO": "PLUS",
+    "Metraje": 274.427,
+    "Inversion": "$1,550.00",
+    "Contado": "425,361.85",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 676
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 26,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 677
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 27,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 678
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 28,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 679
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 29,
+    "TIPO": "PLUS",
+    "Metraje": 285.766,
+    "Inversion": "$1,550.00",
+    "Contado": "442,937.30",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 680
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 30,
+    "TIPO": "PLUS",
+    "Metraje": 329.13,
+    "Inversion": "$1,550.00",
+    "Contado": "10",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 681
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 31,
+    "TIPO": "REGULAR",
+    "Metraje": 197.041,
+    "Inversion": "$1,450.00",
+    "Contado": "285,709.45",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 682
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 32,
+    "TIPO": "REGULAR",
+    "Metraje": 207.034,
+    "Inversion": "$1,450.00",
+    "Contado": "300,199.30",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 683
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 33,
+    "TIPO": "REGULAR",
+    "Metraje": 204.221,
+    "Inversion": "$1,450.00",
+    "Contado": "296,120.45",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 684
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 34,
+    "TIPO": "PLUS",
+    "Metraje": 201.407,
+    "Inversion": "$1,550.00",
+    "Contado": "312,180.85",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 685
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 38,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 686
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 39,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 687
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 40,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 688
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 41,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 689
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 42,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 690
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 43,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 691
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 44,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 692
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 45,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 693
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 46,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 694
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 47,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 695
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 48,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 696
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 49,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 697
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 50,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 698
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 51,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 699
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 52,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 700
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 53,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 701
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 54,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 702
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 55,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 703
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 56,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 704
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 57,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 705
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 58,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 706
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 59,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 707
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 60,
+    "TIPO": "PLUS",
+    "Metraje": 334.982,
+    "Inversion": "$1,550.00",
+    "Contado": "519,222.10",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 708
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 61,
+    "TIPO": "PLUS",
+    "Metraje": 482.541,
+    "Inversion": "$1,550.00",
+    "Contado": "747,938.55",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 709
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 62,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 710
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 63,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 711
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 64,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 712
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 65,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 713
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 66,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 714
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 67,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 715
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 68,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 716
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 69,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 717
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 70,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 718
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 74,
+    "TIPO": "PLUS",
+    "Metraje": 276.013,
+    "Inversion": "$1,550.00",
+    "Contado": "427,820.15",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 719
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 75,
+    "TIPO": "REGULAR",
+    "Metraje": 277.336,
+    "Inversion": "$1,450.00",
+    "Contado": "402,137.20",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 720
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 76,
+    "TIPO": "REGULAR",
+    "Metraje": 278.683,
+    "Inversion": "$1,450.00",
+    "Contado": "404,090.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 721
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 77,
+    "TIPO": "REGULAR",
+    "Metraje": 280.076,
+    "Inversion": "$1,450.00",
+    "Contado": "406,110.20",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 722
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 78,
+    "TIPO": "REGULAR",
+    "Metraje": 262.942,
+    "Inversion": "$1,450.00",
+    "Contado": "381,265.90",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 723
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 79,
+    "TIPO": "PLUS",
+    "Metraje": 341.447,
+    "Inversion": "$1,550.00",
+    "Contado": "529,242.85",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 724
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 80,
+    "TIPO": "PLUS",
+    "Metraje": 281.917,
+    "Inversion": "$1,550.00",
+    "Contado": "436,971.35",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 725
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 81,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 726
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 82,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 727
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 83,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 728
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 84,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 729
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 85,
+    "TIPO": "PLUS",
+    "Metraje": 200,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 730
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 86,
+    "TIPO": "REGULAR",
+    "Metraje": 200,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 731
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 87,
+    "TIPO": "REGULAR",
+    "Metraje": 186.54,
+    "Inversion": "$1,450.00",
+    "Contado": "270,483.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 732
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 88,
+    "TIPO": "PLUS",
+    "Metraje": 480.145,
+    "Inversion": "$1,550.00",
+    "Contado": "744,224.75",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 733
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 89,
+    "TIPO": "PLUS",
+    "Metraje": 296.592,
+    "Inversion": "$1,550.00",
+    "Contado": "459,717.60",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 734
+  },
+  {
+    "Etapa": "E8",
+    "Lote": 90,
+    "TIPO": "REGULAR",
+    "Metraje": 231.3,
+    "Inversion": "$1,450.00",
+    "Contado": "335,385.00",
+    "Status": "DISPONIBLE",
+    "Consecutivo": 735
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 21,
+    "TIPO": "PLUS",
+    "Metraje":  181.694,
+    "Inversion": "$1,550.00",
+    "Contado": "281,625.70",
+    "Status": "VENDIDO",
+    "Consecutivo": 995
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 22,
+    "TIPO": "REGULAR",
+    "Metraje":   185.761,
+    "Inversion": "$1,450.00",
+    "Contado": "269,353.45",
+    "Status": "VENDIDO",
+    "Consecutivo": 996
+  }
+,
+  {
+    "Etapa": "E1",
+    "Lote": 48,
+    "TIPO": "REGULAR",
+    "Metraje":   200.00,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "VENDIDO",
+    "Consecutivo": 997
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 49,
+    "TIPO": "REGULAR",
+    "Metraje":   200.00,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "VENDIDO",
+    "Consecutivo": 998
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 71,
+    "TIPO": "PLUS",
+    "Metraje":    169.827,
+    "Inversion": "$1,550.00",
+    "Contado": "263,231.85",
+    "Status": "VENDIDO",
+    "Consecutivo": 999
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 77,
+    "TIPO": "PLUS",
+    "Metraje":    169.827,
+    "Inversion": "$1,550.00",
+    "Contado": "263,231.85",
+    "Status": "VENDIDO",
+    "Consecutivo": 1000
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 78,
+    "TIPO": "PLUS",
+    "Metraje":   200.00,
+    "Inversion": "$1,550.00",
+    "Contado": "310,000.00",
+    "Status": "VENDIDO",
+    "Consecutivo": 1001
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 88,
+    "TIPO": "REGULAR",
+    "Metraje":    276.825,
+    "Inversion": "$1,450.00",
+    "Contado": "401,396.25",
+    "Status": "VENDIDO",
+    "Consecutivo": 1002
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 82,
+    "TIPO": "REGULAR",
+    "Metraje":     200.000,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "VENDIDO",
+    "Consecutivo": 1003
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 83,
+    "TIPO": "PLUS",
+    "Metraje":  169.827,
+    "Inversion": "$1,550.00",
+    "Contado": "263,231.85",
+    "Status": "VENDIDO",
+    "Consecutivo": 1004
+  },
+  {
+    "Etapa": "E1",
+    "Lote": 85,
+    "TIPO": "REGULAR",
+    "Metraje":   194.698,
+    "Inversion": "$1,450.00",
+    "Contado": "282,312.10",
+    "Status": "VENDIDO",
+    "Consecutivo": 1005
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 70,
+    "TIPO": "REGULAR",
+    "Metraje":   200.00,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "VENDIDO",
+    "Consecutivo": 1006
+  },
+  {
+    "Etapa": "E2",
+    "Lote": 71,
+    "TIPO": "REGULAR",
+    "Metraje":   200.00,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "VENDIDO",
+    "Consecutivo": 1007
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 8,
+    "TIPO": "REGULAR",
+    "Metraje":   200.00,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "VENDIDO",
+    "Consecutivo": 1008
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 9,
+    "TIPO": "REGULAR",
+    "Metraje":   200.00,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "VENDIDO",
+    "Consecutivo": 1009
+  },
+  {
+    "Etapa": "E3",
+    "Lote": 38,
+    "TIPO": "REGULAR",
+    "Metraje":   200.00,
+    "Inversion": "$1,450.00",
+    "Contado": "290,000.00",
+    "Status": "VENDIDO",
+    "Consecutivo": 1010
+  }
+
+
+]
